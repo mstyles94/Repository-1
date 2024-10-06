@@ -5,5 +5,5 @@ I have created this repository as part of my coursework towards my Programming a
 
 This is the logo file for the current assignment and the upcoming webpage project. I am a coffee head so I chose coffee for my theme.
 
-#Flowcharts
+# Flowcharts
 PasswordLogic.pdf Is my first attempt at creating a simple flowchart. 
