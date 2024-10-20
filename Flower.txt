@@ -1,0 +1,35 @@
+"""
+Miranda Styles 10.20.24
+This is the OOP assignment, intended to teach us about object oriented programming. 
+The w3 site said we can either use # to start comments or 
+we can use multiple lines by using quotes so I used quotes.
+"""
+
+class Flower: #this is where we set the class
+    def __init__(self, name): #class being initiated
+        self.name = name #refs current class instance
+
+    def grow(self): #functions
+        print("The " +self.name + " is growing.") #this is output, it outputs the string to the screen
+
+    def bloom(self):
+        print("The " + self.name + " is blooming.") #this is also an output  
+   
+    def die(self):
+    	print("The " + self.name + " is dying.") #another output
+        
+def main(): #function calls
+    flower1 = Flower("Rose") #this is a variable, name is Rose
+    flower1.grow() 
+    flower1.bloom()
+    flower1.die()
+    flower2 = Flower("Daisy") #this is another variable
+    flower2.grow()
+    flower2.bloom()
+    flower2.die()
+    flower3 = Flower("Calla Lily")#another variable
+    flower3.grow()
+    flower3.bloom()
+    flower3.die()
+if __name__ == "__main__":
+  main()
