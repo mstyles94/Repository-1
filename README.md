@@ -8,3 +8,7 @@ This is the logo file for the current assignment and the upcoming webpage projec
 
 # Flowcharts
 PasswordLogic.pdf Is my first attempt at creating a simple flowchart. 
+
+# Python Number Checker
+This is a program to determine whether a number is greater than or less than 100. 
+[Python.png](Python.png)
