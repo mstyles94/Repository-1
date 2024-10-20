@@ -12,3 +12,7 @@ PasswordLogic.pdf Is my first attempt at creating a simple flowchart.
 # Python Number Checker
 This is a program to determine whether a number is greater than or less than 100. 
 [Python.png](Python.png)
+
+# Class Diagram
+This pdf is a diagram of a Flower class
+[MirandaFlowerClass.pdf](https://github.com/mstyles94/Repository-1/blob/4ecc5e96051035de9d90b448b8d94df76dcf980e/MirandaFlowerClass.pdf)
