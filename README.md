@@ -19,4 +19,5 @@ This pdf is a diagram of a Flower class
 
 # Flower Text File 
 This is the text file including the coding for the flower OOP assignment. 
-[Flower.txt](https://github.com/mstyles94/Repository-1/blob/b90446f58c3a628c74ca38a9a7cf1d2093786bf0/Flower.txt)
+[Flower.txt](https://github.com/mstyles94/Repository-1/blob/b90446f58c3a628c74ca38a9a7cf1d2093786bf0/Flower.txt), 
+and this is the screenshot of the code in action, [PythonOOP.png](https://github.com/mstyles94/Repository-1/blob/e95c29c53e43304bc7058c5543f865da95192649/PythonOOP.png)
