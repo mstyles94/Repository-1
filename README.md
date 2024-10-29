@@ -21,3 +21,8 @@ This pdf is a diagram of a Flower class
 This is the text file including the coding for the flower OOP assignment. 
 [Flower.txt](https://github.com/mstyles94/Repository-1/blob/b90446f58c3a628c74ca38a9a7cf1d2093786bf0/Flower.txt), 
 and this is the screenshot of the code in action, [PythonOOP.png](https://github.com/mstyles94/Repository-1/blob/e95c29c53e43304bc7058c5543f865da95192649/PythonOOP.png)
+
+# Topology
+For this assignment I chose a wired mesh topology. I chose this topology due to its reliability and ability to stay connected if any of the devices on the network go down or there is a break in the connection. This diagram includes 2 computers, a router, and a printer. 
+
+[NetworkDesign.png](https://github.com/mstyles94/Repository-1/blob/3b57621a8c8453d9c210f86078aaaa1b262bd8b0/NetworkDesign.png.jpeg)
