@@ -26,3 +26,8 @@ and this is the screenshot of the code in action, [PythonOOP.png](https://github
 For this assignment I chose a wired mesh topology. I chose this topology due to its reliability and ability to stay connected if any of the devices on the network go down or there is a break in the connection. This diagram includes 2 computers, a router, and a printer. 
 
 [NetworkDesign.png](https://github.com/mstyles94/Repository-1/blob/3b57621a8c8453d9c210f86078aaaa1b262bd8b0/NetworkDesign.png.jpeg)
+
+
+#SQL Query
+For this assignment I used basic SQL statements to display the needed data table, then used a where statement to narrow down the list to show only quantities greater than 20. I then used an Order by keyword to sort them in ascending order.  
+[SQLQuery.png](https://github.com/mstyles94/Repository-1/blob/e234a2009c5d2ae77c21407a7244930c98c8ca14/SQLQuery.png)
