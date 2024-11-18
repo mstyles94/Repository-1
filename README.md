@@ -31,3 +31,7 @@ For this assignment I chose a wired mesh topology. I chose this topology due to 
 # SQL Query
 For this assignment I used basic SQL statements to display the needed data table, then used a where statement to narrow down the list to show only quantities greater than 20. I then used an Order by keyword to sort them in ascending order.  
 [SQLQuery.png](https://github.com/mstyles94/Repository-1/blob/e234a2009c5d2ae77c21407a7244930c98c8ca14/SQLQuery.png)
+
+## Website SS
+This assignment entailed creating a webpage based on a theme of our own choosing. I chose to use the Coffee Cafe referenced in the previous Logo assignment. 
+[MyHTML.png](https://github.com/mstyles94/Repository-1/blob/70d197c31f7e71eede4f3381fdc9505bda7ed225/MyHTML.png)
